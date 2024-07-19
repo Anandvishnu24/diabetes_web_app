@@ -19,7 +19,7 @@ import streamlit as st
 
 
 # Load the model and scaler
-loaded_model = pickle.load(open('D:\GIT HUB\trained_model_3.sav', 'rb'))
+loaded_model = pickle.load(open('trained_model_3.sav', 'rb'))
 
 
 # Streamlit title
